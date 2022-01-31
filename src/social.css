@@ -1,0 +1,36 @@
+.social{
+    height: 50%;
+    position: absolute;
+    top: 210%;
+    width: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.icone-social
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 40%;
+}
+
+.social-title{
+    font-weight: bold;
+    font-size: calc(3em + 1vw);
+    color: #ff7d00;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.insta, .facebook, .twitter{
+    width: 8vh;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
