@@ -34,3 +34,14 @@
     align-items: center;
     justify-content: center;
 }
+
+@media screen and (max-width: 800px)
+{
+    .social{
+        top: 290%;
+    }
+    .icone-social
+    {
+        width: 80%;
+    }
+}
