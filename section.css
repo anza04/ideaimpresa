@@ -25,6 +25,7 @@
     font-size: calc(0.70em + 1vw);
     color: #ffecd1;
     text-align: center;
+    text-shadow: 5px 2px #db6a00 ;
 }
 
 .card-text{
